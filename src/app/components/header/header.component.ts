@@ -14,4 +14,8 @@ export class HeaderComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  toogleAddTask() {
+    console.log ("Hiciste click desde arriba!")
+  }
+
 }
