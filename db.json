@@ -29,6 +29,12 @@
       "text": "Realizar Examen Angular",
       "day": "Agosto 7 a las 8:00",
       "reminder": false
+    },
+    {
+      "text": "Trámites",
+      "day": "Lunes 19:00 hs",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
